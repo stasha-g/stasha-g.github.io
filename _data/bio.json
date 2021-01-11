@@ -1,15 +1,15 @@
+
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Stanislava Garadsevic",
+    "label": "PhD Candidate",
+    "picture": "https://stasha-g.github.io/images/stasa.png",
+    "email": "gardasev@hawaii.edu",
+    "website": "https://stasha-g.github.io",
+    "summary": "I am a PhD candidate at Communication and Information Sciences Interdisciplinary Program at University of Hawaii at Manoa. My research is related to visualization of networks of people and resources (knowledge graphs) in my academic program. I am utilizing many methodologies to design those visualizations, espeicially participatory design.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96826",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,147 +17,128 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "stasha-g",
+        "url": "http://github.com/stasha-g"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "stanislava-gardasevic/",
+        "url": "http://linkedin.com/in/stanislava-gardasevic/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "knowledge graphs",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "information sharing",
       "keywords": [
+      ]
+    },
+    {
+      "name": "user experience",
+      "keywords": [,  design, 
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Qualitative research",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "participatory desing",
+        "semi-structured interviews",
+        "usability studies",
+        "NVivo",
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Quantitative research",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "R",
+        "SPSS",
+        "Social Nework Analysis",
+        "Topic Modelling",
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Human-Computer Interaction (expected Spring, 2022)",
+      "studyType": "PhD",
+      "startDate": "2016-08-15",
       "endDate": "Present",
-      "gpa": "",
-      "courses": [
+      "gpa": "4.0",
+      "courses": ["Information Policy and Planning","Communication and Information Theory","Information Systems and Services","Network Scence","Introduction to Quantitative Research","Cognitive Sciences","Databases design and creation","Non-fiction Writing","Web Applications Programming",
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "UH Manoa",
+      "position": "TA",
+      "website": "http://www.hawaii.edu/lis/",
+      "startDate": "2016-08-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "I am an instructor of record for four graduate level courses at Library and Information Sciences Program",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Creating Digital Libraries",
+        "Technology for Library and Information Centres",
+        "Digital Librarianshp",
+        "International Librarianship"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
+      "company": "National Library of Serbia",
+      "position": "Digital Librarian",
       "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "startDate": "2011-11-01",
+      "endDate": "2016-08-15",
+      "summary": "Involved in the development of multiple e-services (digital libraries, digital archive, web archive, national metadata aggregator). Engaged in multiple international projects, communication, and collaborations.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Europeana 1914-1918 Project - digitization of WW1 material",
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "ACM/SIGCHI Volunteer Development Committee ",
+      "website": "https://sigchi.org/volunteer-development-committee/",
+      "position": "Research Scientist",
+      "startDate": "2020-05-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+      "summary": "We are conducting qualitative research by following human-centered design processes to inform the design of a new volunteers’ management system. I am involved in interviewing SIGCHI/ACM community members, transcribing, interview coding, and writing the report.",
+      "highlights": [ "",
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "organization": "Science Communicators ‘Ohana ",
+      "website": "https://scicommohana.wordpress.com/about/",
+      "position": "Interdisciplinary outreach and networking officer",
+      "startDate": "2020-10-01",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Full Scholarship to attend Master Studies ",
+      "date": "2006-2009",
+      "awarder": "European Commision",
+      "summary": "One of 18 recipients of Erasmus Mundus Full Scholarship for attending two year long Digital library learning master program in Norway, Estonia, an Italy"
     },
     {
-      "title": "First place",
+      "title": "IFLA/OCLC Fellowship",
       "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "awarder": "IFLA/OCLC",
+      "summary": "I was one of the five new professionals from developing countries that was awarded a fellowship to stay for one month in OCLC headqourters and visit numerous libraries across USA, Library of Congress including."
     }
   ],
   "references": [
