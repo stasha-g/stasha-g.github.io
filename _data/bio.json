@@ -3,7 +3,7 @@
   "basics": {
     "name": "Stanislava (Stasha) Garadsevic",
     "label": "PhD Candidate",
-    "picture": "https://stasha-g.github.io/images/stasa.jpg",
+    "picture": "https://stasha-g.github.io/images/stasa.png",
     "email": "gardasev@hawaii.edu",
     "website": "https://stasha-g.github.io",
     "summary": "I am a PhD candidate at Communication and Information Sciences Interdisciplinary Program at University of Hawaii at Manoa. My research is related to visualization of networks of people and resources (knowledge graphs) in my academic program. I am utilizing many methodologies to design those visualizations, espeicially participatory design.",
@@ -40,8 +40,7 @@
     },
     {
       "name": "user experience",
-      "keywords": [""
-      ]
+      "keywords": []
     }
   ],
   "skills": [
@@ -52,7 +51,7 @@
         "participatory desing",
         "semi-structured interviews",
         "usability studies",
-        "NVivo",
+        "NVivo"
       ]
     },
     {
@@ -62,7 +61,7 @@
         "R",
         "SPSS",
         "Social Nework Analysis",
-        "Topic Modelling",
+        "Topic Modelling"
       ]
     }
   ],
@@ -74,7 +73,7 @@
       "startDate": "2016-08-15",
       "endDate": "Present",
       "gpa": "4.0",
-      "courses": ["Information Policy and Planning","Communication and Information Theory","Information Systems and Services","Network Scence","Introduction to Quantitative Research","Cognitive Sciences","Databases design and creation","Non-fiction Writing","Web Applications Programming",
+      "courses": ["Information Policy and Planning","Communication and Information Theory","Information Systems and Services","Network Scence","Introduction to Quantitative Research","Cognitive Sciences","Databases design and creation","Non-fiction Writing","Web Applications Programming"
       ]
     }
   ],
@@ -101,7 +100,7 @@
       "endDate": "2016-08-15",
       "summary": "Involved in the development of multiple e-services (digital libraries, digital archive, web archive, national metadata aggregator). Engaged in multiple international projects, communication, and collaborations.",
       "highlights": [
-        "Europeana 1914-1918 Project - digitization of WW1 material",
+        "Europeana 1914-1918 Project - digitization of WW1 material"
       ]
     }
   ],
@@ -113,7 +112,7 @@
       "startDate": "2020-05-01",
       "endDate": "Present",
       "summary": "We are conducting qualitative research by following human-centered design processes to inform the design of a new volunteers’ management system. I am involved in interviewing SIGCHI/ACM community members, transcribing, interview coding, and writing the report.",
-      "highlights": [ "",
+      "highlights": [ ""
       ]
     },
     {
