@@ -1,7 +1,7 @@
 
 {
   "basics": {
-    "name": "Stanislava (Stasha) Garadsevic",
+    "name": "Stanislava Garadsevic",
     "label": "PhD Candidate",
     "picture": "https://stasha-g.github.io/images/stasa.png",
     "email": "gardasev@hawaii.edu",
@@ -122,7 +122,7 @@
       "startDate": "2020-10-01",
       "endDate": "Present",
       "summary": "",
-      "highlights": [
+      "highlights": [""
       ]
     }
   ],
@@ -147,3 +147,4 @@
     }
   ]
 }
+
