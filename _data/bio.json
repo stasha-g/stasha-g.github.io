@@ -28,13 +28,12 @@
   },
   "interests": [
     {
-      "name": "knowledge graphs",
+      "name": "knowledge graphs"},
+    {
+      "name": "information sharing"
     },
     {
-      "name": "information sharing",
-    },
-    {
-      "name": "user experience",
+      "name": "user experience"
     }
   ],
   "skills": [
@@ -68,18 +67,14 @@
       "endDate": "Present",
       "gpa": "4.0",
       "courses": ["Knowledge Graphs", "Visualization", "Visual Analytics", "Social Network Analysis", "Recommendation Systems", "Interdisciplinary PhD Education"]
-      ]
-    }
-  ],
-  "education": [
+    },
     {
-      "institution": ["University College Oslo (Norway), University of Tallinn (Estonia)", "University of Parma (Italy)"]
+      "institution": "University College Oslo (Norway), University of Tallinn (Estonia), University of Parma (Italy)",
       "area": "International Master in Digital Library Learning",
       "studyType": "MLIS",
       "startDate": "2009-08-15",
       "endDate": "2011-05-15",
-      "courses": ["Metadata models", "mapping"; "interoperability", "archival models", "Europeana Data Model (EDM)"]
-      ]
+      "courses": ["Metadata models", "mapping", "interoperability", "archival models", "Europeana Data Model (EDM)"]
     }
     ],
   "work": [
