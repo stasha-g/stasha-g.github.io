@@ -1,3 +1,5 @@
+
+  
 {
   "basics": {
     "name": "Stanislava Gardasevic",
@@ -111,15 +113,14 @@
       "position": "Research Scientist",
       "startDate": "2020-05-01",
       "endDate": "Present",
-      "summary": "We are conducting qualitative research by following human-centered design processes to inform the design of a new volunteers’ management system. I am involved in interviewing SIGCHI/ACM community members, transcribing, interview coding, and writing the report.",
-    
+      "summary": "We are conducting qualitative research by following human-centered design processes to inform the design of a new volunteers’ management system. I am involved in interviewing SIGCHI/ACM community members, transcribing, interview coding, and writing the report."
     },
     {
       "organization": "Science Communicators ‘Ohana ",
       "website": "https://scicommohana.wordpress.com/about/",
       "position": "Interdisciplinary outreach and networking officer",
       "startDate": "2020-10-01",
-      "endDate": "Present",
+      "endDate": "Present"
     }
   ],
   "awards": [
