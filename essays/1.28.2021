@@ -1,0 +1,25 @@
+---
+layout: essay
+type: essay
+title: UI Basics Technical Essay
+# All dates must be YYYY-MM-DD format!
+date: 2021-01-28
+labels:
+  - WODs
+  - Headakes
+---
+Starting with WOD1, I was quite happy, as it wasn't that hard for me. I learned HTML a while ago, and I teach the basics at a library course I am teaching at LIS school, just enought to know how to edit pages if your CMS gets stuck. So it wasn't to bad, as I sad, I never looked at the screencast and did it after practicing just once in average time.
+Now, at WOD2 my troubles started, because it would't load CSS styles no matter what I did!!! Also, I have 2 computers, one in my office and another one at home, so what worked in office didn't work at home. Also, I had a problem with syncing the data to desktop github, because home it would always do that in a folder that was named by the old name of the folder that I renamed in online gohub account. So that was weird. Also, I had made some spelling mistakes in creating folders, and I had to delete and create them again, so that took a lot of time, as well as me figuring out how to sync and commit changes to git.
+
+Anyway, I tried to do this WOD2 twice, then I looked at the screencast and did it only after watching it. It took me a lot of time and effort- not sure how much as I don't really run timer when I practice (ups). I wasn't aware that I need to load Google Fonts in head link to be able to call for them (and was thinking, really, only google can give you those fonts?). I found it hard to figure out CSS, and that is because I never had to deal with it before. I feel a bit more comfortable with it now- syntax vise, not the actuall atribute names.
+
+The WOD3 I did just now. Started in a wrong direction, by setting up ids for paragraphs and divisions, than figured I need to do the column formating through tables. It took me several tries before figuring out how to do it properly.
+I did it in the 3rd try, and never watched the screencast (so proud of myself). After the excercise, I started the recording but then I got stuck as it didn't react to my CSS formating as it did the first time around. The logos and text were not aligned properly so it took me some time to find the attribute to do so.
+Also, in the first try I never used table headers <th> but put the subtitles in the data cell, but that made the whole thing a bit uneven, so I decided to do it properly. Finally, I had a problem with width of the text and tables, and played a bit with that until I got what I needed. I think there is some weird magic going on there, because what works off one time, next time works well and other way around.
+Not sure what is causing this- but I'm not imagining things, I swear!
+
+
+
+<img src="../images/dig.jpg">
+
+
