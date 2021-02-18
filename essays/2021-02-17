@@ -1,0 +1,19 @@
+---
+layout: essay
+type: essay
+title: My experience with Invoice WOD
+# All dates must be YYYY-MM-DD format!
+date: 2021-02-17
+labels:
+  - Javascript
+  - Learning experience
+---
+I was pleasantly surprised with my ability to solve this WOD. It took me a while to figure it out, especially with how the document.write (``) works, and how to make the table work, but once I did, it was pretty much a smooth ride.
+
+This is the first assignment where we actually got to use our brain for problem solving, coding if you will, although coding of the items took as much (if not more) time as hardcoding would take - in this case; that is because a lot of repetitions and changing the variable names from 1-5. I wish I knew more of regular expressions to make this process more interesting and efficient.
+
+I like javascript and especially the string templates and how they work, it makes life so much easier and it's an intuitive way to input values for variables. 
+I am glad I was able to do Lab6, the last 2 exercises on my own, as those took me a while to figure out, the order of things and how to declare variables so they work, and that made the job with this WOD much easier. Still I wasn’t able to do it in RX time, but a few minutes more. That is because I misspelled something and had to go back to find the bug. I did it on the second try and never watched the screencast. The first time around it took me a good 40 minutes to do it all.
+
+Looking forward to continuing learning some new cool tricks!
+
