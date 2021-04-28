@@ -1,0 +1,18 @@
+---
+layout: essay
+type: essay
+title: After Assingment 2
+
+date: 2021-04-28
+labels:
+  - Javascript
+  - Learning experience
+  - Assignment 2
+  
+---
+This assignment wasn't as hard for me as the previous one, and that was a pleasant surprise. Although the grade might not be as pleasant a surprise, considering that my solutions were a bit shortcutted and not too elegant, still I did it, without even consulting the professor (in person, he did help me solve a problem via email). So, I am proud of myself. 
+It seems like I am finally starting to get what is going on in my code. After the file I/O lesson, the code became readable to me. I feel like I used to look at it as if I was looking at Chinese characters (not getting anything), but now I look at the code as if it was written in Russian alphabet characters (I am Serbian and both Serbs and Russians use Cyrillic alphabet, so I can get a sense of what is written, although I don't really understand the language completely). So, I think I might be slowly getting there. 
+I wish we have spent more time on Javascript lessons. We are spending 3+ classes now on server and cookies/sessions, as I think the first might be more useful. Also, I came back to my graph database (Neo4J) and querying it (Cypher query language), and even if I didn't do anything around it for 5 months, I had no problem with constructing the query, even if the language is completely different (easier) than JS. I think this class helped me learn how to think in a way that is breaking a complex problem into smaller steps, and that is a very useful skill to have - in life in general, not only when dealing with technology. 
+So, this essay has a much lighter note than the previous one.I think it would be a very cool project to do sentiment analysis of the essays in this class to pragmatically show the feelings as people progress in learning these skills (although professors are well aware of it)
+
+<img src="../images/programmer-3607627_640.png" width="500">
